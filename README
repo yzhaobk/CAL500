@@ -1,0 +1,25 @@
+    -- Million Song Dataset --
+           -- CAL500 --
+
+This folder contains the songs from the CAL500 dataset
+(http://cosmal.ucsd.edu/cal/projects/AnnRet/)
+obtained from The Echo Nest API on September 23, 2011
+and put in the same format as the rest of MSD songs
+(http://labrosa.ee.columbia.edu/millionsong/)
+
+Quick notes:
+- relies on the list in 'cal500_EchoNest_IDs.txt' obtained
+from the UCSD website
+- only audio features should be considered 'safe', finding
+song and artist starting from a track on the EN API is 'risky'
+
+For the tag annotations, see the CAL500 website.
+
+For questions regarding CAL500, please contact the CAL lab at UCSD.
+For questions regarding the Million Song Dataset, please use the
+Google group: http://groups.google.com/group/millionsongdataset
+
+
+Thierry Bertin-Mahieux
+tb2332@columbia.edu
+September 23rd, 2011
